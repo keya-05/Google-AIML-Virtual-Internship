@@ -1,0 +1,4 @@
+py -3.9 -m venv unit6
+.\mock\Scripts\activate
+python model.py
+streamlit run app.py

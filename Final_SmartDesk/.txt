@@ -1,0 +1,11 @@
+To create Virtual Environment - 
+python -m venv mock
+
+To activate virtual Environment - 
+.\mock\Scripts\activate
+
+To train Model - 
+python train_classifier.py
+
+To run app - 
+streamlit run streamlit_app.py

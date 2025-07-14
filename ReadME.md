@@ -50,7 +50,7 @@ A real-time web application that uses **TensorFlow.js** and **React.js** to dete
 
 ### 🧠 2. Recyclable vs Non-Recyclable Classifier (Python)
 
-<img width="959" height="534" alt="image" src="https://github.com/user-attachments/assets/97449473-142b-4ec9-9d4b-6fcb7b220f85" />
+<img width="959" height="534" alt="image" src="https://github.com/keya-05/Google-AIML-Virtual-Internship/blob/main/Recyclable%20VS%20NonRecyclable/RecyclableVSNonRecyclable.png" />
 
 **🔗 Based on:** [Unit 6 – Going Further with Image Classification](https://developers.google.com/learn/pathways/going-further-image-classification?hl=en)
 

@@ -31,7 +31,8 @@ This internship followed six structured learning units hosted on [Google Develop
 
 ### 📦 1. Building an Object Detection App with TensorFlow.js and React.js using COCO-SSD
 
-<img width="959" height="529" alt="image" src="" />
+<img width="1920" height="1015" alt="image" src="https://github.com/user-attachments/assets/eaf7e28a-3408-4076-9cb7-724037ac8fc2" />
+
 
 **🔗 Based on:** [Unit 2 – Get Started with Object Detection](https://developers.google.com/learn/pathways/get-started-object-detection?hl=en)
 
